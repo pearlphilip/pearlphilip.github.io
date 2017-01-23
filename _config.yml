@@ -1,0 +1,8 @@
+title: Pearls of Python
+description: Exploring the gem of Python in everyday life
+google_analytics: UA-72732745-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

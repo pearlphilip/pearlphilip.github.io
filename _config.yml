@@ -1,7 +1,7 @@
 title: Pearl Philip
 description: for the love of data science + chemical engineering
 google_analytics: UA-72732745-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
